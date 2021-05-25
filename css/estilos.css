@@ -16,7 +16,7 @@
 /*Encabezado */
 
 header {
-	animation: encabezado 30s infinite linear;
+	animation: encabezado 60s infinite linear;
 	background-size: cover;
 	background-position: center 10%;
 	padding: 4vh;
